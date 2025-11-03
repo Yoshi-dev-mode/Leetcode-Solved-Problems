@@ -13,7 +13,7 @@
 # print(answer)
 
 
-# 
+# More simplified version
 class Solution:
     def fizzBuzz(self, n):
         answer = []
