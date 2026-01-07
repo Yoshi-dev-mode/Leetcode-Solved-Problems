@@ -18,7 +18,7 @@ INTUITION:
 
 APPROACH
 
-    We use a hash map (dictionary) to store each number along with its index as we iterate through the list.
+    I use a hash map (dictionary) to store each number along with its index as we iterate through the list.
 
     1. Initialize an empty dictionary to store previously seen numbers.
 
@@ -63,3 +63,4 @@ class Solution(object):
 
             # Store the current number and its index for future checks
             map[value] = index
+
