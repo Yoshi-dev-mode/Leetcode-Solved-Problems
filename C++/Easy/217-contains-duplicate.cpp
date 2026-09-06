@@ -42,7 +42,7 @@ public:
     bool containsDuplicate(vector<int>& nums)
     {
         // Stores numbers that we have already encountered.
-        unordered_set<int> s;
+        unordered_set<int> s; // {1,2,3,4,5.....}
 
         // Go through every element in the array.
         for (int i = 0; i < nums.size(); i++)
