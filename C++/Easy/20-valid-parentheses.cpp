@@ -24,7 +24,7 @@ public:
      */
     bool isValid(string s)
     {
-        stack<char> st;
+        stack<char> st; // Makes a stack 
 
         for (char c : s)
         {
