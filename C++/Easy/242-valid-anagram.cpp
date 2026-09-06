@@ -41,7 +41,7 @@ public:
 
         // Step 2: Create a frequency array for 26 lowercase letters.
         // Index 0 represents 'a', index 1 represents 'b', ..., 25 represents 'z'.
-        int count[26] = {0};
+        int count[26] = {0}; // {0:0,1:0,2:0,3:0,4:0,5:0,6:0,7:0,8:0,9:0,10:0.......}
 
         // Step 3 & 4:
         // Increment the count for characters in `s`
