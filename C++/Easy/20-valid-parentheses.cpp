@@ -1,3 +1,16 @@
+/* 
+
+| Function     | Returns          | Meaning                |
+| ------------ | ---------------- | ---------------------- |
+| `st.empty()` | `true` / `false` | Is it empty?           |
+| `st.size()`  | number           | How many elements?     |
+| `st.top()`   | element          | What's on top?         |
+| `st.push(x)` | nothing          | Add an element         |
+| `st.pop()`   | nothing          | Remove the top element |
+
+
+*/
+
 #include <iostream>
 #include <stack>
 
