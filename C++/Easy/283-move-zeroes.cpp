@@ -43,7 +43,7 @@ public:
 
                 // Swap the non-zero element with the
                 // element at index j.
-                swap(nums[i], nums[j]);
+                swap(nums[i], nums[j]); // IMPORTANT FOR SWAPPING 
 
                 // Move j to the next available position.
                 j++;
