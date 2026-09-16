@@ -63,7 +63,7 @@ public:
 void printList(ListNode* head)
 {
     ListNode* curr = head;
-
+    // Use while loop to iterate all of the Nodes
     while (curr != nullptr)
     {
         cout << curr->val << " -> ";
