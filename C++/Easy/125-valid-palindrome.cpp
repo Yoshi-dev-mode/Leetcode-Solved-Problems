@@ -57,6 +57,7 @@ public:
 
 int main()
 {
+    // OUTPUT OF THE SOLVED PROBLEM
     Solution solution;
 
     string palindrome = "A man, a plan, a canal: Panama";
