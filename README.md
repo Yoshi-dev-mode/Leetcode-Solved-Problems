@@ -25,9 +25,29 @@
 
 ---
 
-## About This Repository
+## 📊 My LeetCode Progress
 
-Welcome! 👋 This repository documents my progress as I learn **Data Structures and Algorithms (DSA)** through LeetCode.
+<div align="center">
+
+  <a href="https://leetcode.com/u/EFvUGrfYPL/">
+    <img src="https://leetcard.jacoblin.cool/EFvUGrfYPL?theme=dark&font=Baloo&ext=contest" alt="LeetCode statistics for EFvUGrfYPL" width="100%" />
+  </a>
+
+  <br/>
+
+  <a href="https://leetcode.com/u/EFvUGrfYPL/">
+    <img src="https://img.shields.io/badge/View%20My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View my LeetCode profile"/>
+  </a>
+
+</div>
+
+> **Note:** The statistics card is provided by a community service and may occasionally be unavailable or delayed. Visit my LeetCode profile for the latest information.
+
+---
+
+## 👋 About This Repository
+
+Welcome! This repository documents my progress as I learn **Data Structures and Algorithms (DSA)** through LeetCode.
 
 I treat every problem as more than a submission. I aim to understand the problem, identify the underlying pattern, and write a solution that I can explain—not just reproduce.
 
@@ -39,7 +59,7 @@ I treat every problem as more than a submission. I aim to understand the problem
 - **Complexity analysis** to reason about time and space efficiency.
 - **Continuous improvement** as I revisit concepts and strengthen my fundamentals.
 
-## My Problem-Solving Workflow
+## 🧭 My Problem-Solving Workflow
 
 <table>
   <tr>
@@ -57,7 +77,7 @@ For each problem, I try to answer three questions:
 2. **What is its time and space complexity?**
 3. **When could I recognize and use this pattern again?**
 
-## Topics I'm Practicing
+## 🧠 Topics I'm Practicing
 
 The repository grows as I solve more problems and build a stronger foundation.
 
@@ -72,18 +92,18 @@ The repository grows as I solve more problems and build a stronger foundation.
 
 *Topics listed here represent my learning roadmap; this is not a claim that every topic is already complete.*
 
-## Languages & Tools
+## 🛠️ Languages & Tools
 
-<p>
+<div align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Git and GitHub"/>
-</p>
+</div>
 
 Solutions are organized around the problems I practice. Language availability may vary by solution.
 
-## How to Use This Repository
+## 🚀 How to Use This Repository
 
 1. Browse the solution files and choose a problem.
 2. Read the comments before jumping into the code.
@@ -93,7 +113,7 @@ Solutions are organized around the problems I practice. Language availability ma
 
 If you're also learning DSA, feel free to use this repository as a study companion. The goal is to make the reasoning easier to follow—not to replace practicing the problems yourself.
 
-## Progress Over Perfection
+## 🌱 Progress Over Perfection
 
 Every solved problem is another opportunity to improve my logic, code clarity, and ability to explain technical decisions. I'm building consistency, learning common patterns, and preparing to tackle more challenging problems over time.
 
@@ -104,5 +124,9 @@ Every solved problem is another opportunity to improve my logic, code clarity, a
   <a href="https://github.com/Yoshi-dev-mode/Leetcode-Solved-Problems">
     <img src="https://img.shields.io/badge/Explore%20the%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repository"/>
   </a>
+
+  <br/><br/>
+
+  <sub>Built with curiosity, consistency, and a commitment to understanding the why behind the code.</sub>
 
 </div>
